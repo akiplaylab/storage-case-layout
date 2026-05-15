@@ -10,7 +10,9 @@
 
 このサンプル配置は、ニトリ公式の商品画像の組み合わせ例に近い並びをもとにしています。
 
-![ニトリ公式の商品画像: 組合せ可能な収納ケース](https://www.nitori-net.jp/ecstatic/image/product/8431066/843106603.jpg?ts=20231204163626178&imwidth=500&imdensity=1)
+参考:
+
+- [ニトリ公式の商品画像: 組合せ可能な収納ケース](https://www.nitori-net.jp/ecstatic/image/product/8431066/843106603.jpg?ts=20231204163626178&imwidth=500&imdensity=1)
 
 対象にしている商品:
 
