@@ -2,6 +2,10 @@
 
 ニトリの「組合せ可能な収納ケース」の配置を、購入前に試すための小さなシミュレーターです。
 
+公開URL:
+
+- [https://app.akiplaylab.com/storage-case-layout/](https://app.akiplaylab.com/storage-case-layout/)
+
 ![収納ケースレイアウトの画面](docs/screenshot.png)
 
 対象にしている商品:
