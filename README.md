@@ -40,12 +40,12 @@
 
 ## サーバーへの配置
 
-次の3ファイルを、公開したいドメインまたはサブディレクトリへアップロードします。
+`public/` フォルダの中身を、公開したいドメインまたはサブディレクトリへアップロードします。
 
 ```text
-index.html
-app.js
-styles.css
+public/index.html
+public/app.js
+public/styles.css
 ```
 
-`index.html` から `./app.js` と `./styles.css` を相対パスで読んでいるため、サブディレクトリ配下でも動作します。
+`index.html` から `./app.js` と `./styles.css` を相対パスで読んでいるため、`public/` の中身をそのまま置けばサブディレクトリ配下でも動作します。
